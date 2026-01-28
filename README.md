@@ -23,4 +23,4 @@ Sempre buscando aprimorar minhas habilidades e estou aprendendo novas tecnologia
 
 ## Conecte-se Comigo
 
-www.linkedin.com/in/nicolas-gasparetto-b96009277 | nicolas007.gv2005@gmail.com
+www.linkedin.com/in/nicolas-gasparetto | nicolas007.gv2005@gmail.com
