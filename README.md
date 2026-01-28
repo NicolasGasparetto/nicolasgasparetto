@@ -4,7 +4,7 @@
 
 Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** pela Cruzeiro do Sul e estou em plena transição de carreira para a área de **Análise de Dados**. Minha trajetória é marcada por uma forte capacidade de resolução de problemas, unindo atendimento especializado à automação inteligente de processos.
 
-Tenho experiência prática no desenvolvimento de fluxos automatizados e na **integração de IA** para otimizar rotinas operacionais, transformando tarefas manuais em processos eficientes. Como um perfil **comunicador executor**, foco em entender a dor do usuário para entregar soluções com agilidade.
+Tenho experiência prática no desenvolvimento de fluxos automatizados e na **integração de IA** para otimizar rotinas operacionais, transformando tarefas manuais em processos eficientes.
 
 ## Habilidades Técnicas
 
